@@ -15,6 +15,8 @@ Ahora, una vez confirmada la presencia de Git y Python en tu sistema, puedes ava
     pip3 install -r requeriments
     python manage.py runserver
 ```
+[![guide video](https://img.freepik.com/premium-vector/guide-illustration-flat-tiny-technical-faq-information-persons-concept_126608-1455.jpg)](https://www.youtube.com/watch?v=1KW0YleoV3w)
+https://youtu.be/1KW0YleoV3w
 ## Showcast de nuestro proyecto?
 Aqui hay un pequeño video donde explicamos todas las partes de nuestro proyecto con todas las caracterisitacas funcionando correctamente
 [![demo video](https://cdn6.f-cdn.com/contestentries/1474571/26573535/5c6e67499739f_thumb900.jpg)](https://www.youtube.com/watch?v=S9yJsOdgdn4)
